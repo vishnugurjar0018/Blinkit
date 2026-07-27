@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.swiper-button-prev,
+.swiper-button-next {
+  display: flex !important;
+  color: black !important;
+  z-index: 9999 !important;
+  font-size: 10px !important;
+  font-weight: bold !important;
+}
+
+
