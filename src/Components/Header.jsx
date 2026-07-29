@@ -20,7 +20,7 @@ function Header() {
                     {/* Logo */}
                     <div className="col-span-2 border-r border-gray-200 h-full flex items-center justify-center">
                         <img
-                            src="/Images/Logo.png"
+                            src="../Images/logo.png"
                             alt="Blinkit"
                             className="w-32"
                         />
