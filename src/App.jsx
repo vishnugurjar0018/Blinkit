@@ -20,7 +20,7 @@ export default function App() {
       <Header />
 
 
-      <img src="../Images/Image 1.jpg" alt="image" className='w-full h-auto' />
+      <img src="https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=2700/layout-engine/2026-01/Frame-1437256605-2-2.jpg" alt="image" className='w-full h-auto' />
 
 
       <div className='grid grid-cols-2 lg:grid-cols-4 gap-2 pl-3 pr-3 lg:gap-3 lg:pl-5' >
